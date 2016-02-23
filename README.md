@@ -1,4 +1,4 @@
-# https://pujol.io source code
+# Source code for https://pujol.io
 
 The source code of my website [pujol.io](https://pujol.io).
 
